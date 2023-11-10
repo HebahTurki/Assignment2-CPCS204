@@ -1,0 +1,6 @@
+5
+charPattern A
+charPattern C
+drawDiamond 7
+bricksToUnload 2
+bricksToUnload 3
